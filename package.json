@@ -1,0 +1,11 @@
+{
+  "name": "nord",
+  "version": "1.0.0",
+  "description": "feedback",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "author": "KrisHughes <kristopher_hughes@yahoo.com>",
+  "license": "MIT"
+}
